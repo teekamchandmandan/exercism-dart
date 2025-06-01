@@ -1,0 +1,14 @@
+# Dart Practice – Exercism
+
+This repo contains my solutions to Dart exercises from [Exercism](https://exercism.org/tracks/dart).
+
+## Purpose
+
+- Practise Dart programming concepts.
+- Improve problem-solving skills.
+- Track progress on Exercism challenges.
+
+## License
+
+Only the solution files (`lib/*.dart`) are licensed under MIT.  
+Other files are © Exercism and subject to their terms.
