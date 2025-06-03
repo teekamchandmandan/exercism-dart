@@ -36,9 +36,3 @@ class AtbashCipher {
     return buffer.toString();
   }
 }
-
-void main() {
-  var obj = AtbashCipher();
-  print(obj.encode('The quick brown fox jumps over the lazy dog.'));
-  print(obj.decode('gvhgr mt123 gvhgr mt'));
-}
